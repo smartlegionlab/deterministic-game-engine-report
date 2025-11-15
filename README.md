@@ -1,4 +1,4 @@
-# Deterministic Game Engine
+# Deterministic Game Engine (Technical Report)
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17383447-blue)](https://doi.org/10.5281/zenodo.17383447)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -94,3 +94,12 @@ THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIN
 ---
 
 *Research validating that architectural shifts from data transmission to regeneration paradigms show potential for systems with improved performance, security, and scalability characteristics.*
+
+## License
+
+This research paper and all accompanying documents are licensed under
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
+
+## Copyright
+
+Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution 4.0 International.
