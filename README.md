@@ -91,7 +91,7 @@ This technical report presents experimental validation of theoretical paradigms.
 
 ## Connect
 
-- **Website:** https://alexander-suvorov.ru
+- **Website:** https://smartlegionlab.ru
 - **Email:** smartlegionlab@gmail.com
 - **ORCID:** [0009-0006-3427-9611](https://orcid.org/0009-0006-3427-9611)
 
